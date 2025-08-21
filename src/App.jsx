@@ -184,7 +184,7 @@ export default function App() {
             </a>
             {/* Resume and Contact Me Buttons */}
             <a
-              href="/Resume.pdf" // This is the public path to your resume file
+              href="/resume.pdf" // This is the public path to your resume file
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 bg-purple-500 text-white font-semibold rounded-lg shadow-md hover:bg-purple-600 transition-colors duration-300"
